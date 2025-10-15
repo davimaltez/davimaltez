@@ -1,7 +1,7 @@
-## Olá! Me chamo Davi Maltez!
+## Oii, me chamo Davi Maltez!
 - 🔭 Estudante do 1º período de Ciências da Computação
 - 🌱 Estudando Python e JavaScript
-- 😄 Pronomes: ele/dele
+- 😄 Apaixonado por tecnologia
 
 
 <table align="center" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
