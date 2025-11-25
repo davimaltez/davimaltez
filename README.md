@@ -3,6 +3,9 @@
 - 🌱 Estudando Python e JavaScript
 - 😄 Apaixonado por tecnologia
 
+### Aprendo fazendo: do primeiro “Hello World” em Python ao LED que pisca pela primeira vez no Arduino, venho juntando lógica, curiosidade e prática,  construindo pequenos sistemas e que resolvem problemas reais. Estou aberto a desafios, colaboração e a transformar experimentos em soluções úteis.
+
+
 <table align="center" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
   <tr>
     <td style="padding:0;margin:0;vertical-align:middle;">
