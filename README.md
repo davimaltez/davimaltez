@@ -64,3 +64,11 @@ Inglês: leio e escrevo o suficiente para documentação, artigos técnicos e co
 </p>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davimaltez/davimaltez/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davimaltez/davimaltez/output/dist/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/davimaltez/davimaltez/output/dist/github-snake.svg" />
+  </picture>
+</p>
