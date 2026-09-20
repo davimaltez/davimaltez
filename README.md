@@ -55,10 +55,10 @@ Inglês: leio e escrevo o suficiente para documentação, artigos técnicos e co
 ## Conecte-se
 
 <p align="center">
-  <a href="mailto:davimaltez.cs@gmail.com">
+  <a href="mailto:maltezdavid438@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
+  <a href="[https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/davimaltez/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
